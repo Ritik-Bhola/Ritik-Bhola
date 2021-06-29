@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ritik-Bhola
-- 👀 I’m interested in AI
+- 👀 I’m interested in Data Science and ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me - ritikbhola08@gmail.com
