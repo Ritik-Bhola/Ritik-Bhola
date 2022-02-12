@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritik-Bhola
 - 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning OpenCV
+- 🌱 I’m currently working as intern at Hamoye
 - 📫 How to reach me - ritikbhola08@gmail.com
 
 <!---
